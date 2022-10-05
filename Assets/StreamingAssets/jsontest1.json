@@ -1,0 +1,240 @@
+{
+    "inventory": [
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        },
+        {
+            "isNull": false,
+            "ItemID": -1,
+            "amount": 0
+        }
+    ],
+    "task": [
+        {
+            "taskID": 0,
+            "title": "帮助伤心的少女",
+            "description": "我被前男友伤害了，希望你可以帮助我杀掉10只前男友的分身。",
+            "taskTarger": "0/500",
+            "isFinished": false,
+            "condition": 500,
+            "isOn": false
+        },
+        {
+            "taskID": 1,
+            "title": "提升等级",
+            "description": "你太弱了，请尽快提升等级。",
+            "taskTarger": "1/5",
+            "isFinished": false,
+            "condition": 5,
+            "isOn": false
+        }
+    ],
+    "spell": [
+        {
+            "name": "FlyCutter",
+            "damage": 26,
+            "speed": 10.0,
+            "castTime": 0.5,
+            "spellPrefab": {
+                "instanceID": 26884
+            },
+            "icon": {
+                "instanceID": 26902
+            },
+            "MP": 5
+        },
+        {
+            "name": "Thunder",
+            "damage": 50,
+            "speed": 3.0,
+            "castTime": 1.5,
+            "spellPrefab": {
+                "instanceID": 26886
+            },
+            "icon": {
+                "instanceID": 26904
+            },
+            "MP": 10
+        },
+        {
+            "name": "Bomb",
+            "damage": 0,
+            "speed": 0.0,
+            "castTime": 3.0,
+            "spellPrefab": {
+                "instanceID": 26888
+            },
+            "icon": {
+                "instanceID": 26906
+            },
+            "MP": 20
+        },
+        {
+            "name": "EnergyPoint",
+            "damage": 33,
+            "speed": 0.0,
+            "castTime": 0.0,
+            "spellPrefab": {
+                "instanceID": 26890
+            },
+            "icon": {
+                "instanceID": 0
+            },
+            "MP": 0
+        }
+    ],
+    "killAmount": 0,
+    "actionBtn": [
+        "Skill1",
+        "Skill2",
+        "Skill3"
+    ],
+    "x": -7.239999771118164,
+    "y": 3.809999942779541,
+    "HP": 100.0,
+    "MP": 100.0,
+    "level": 1,
+    "currentExp": 0.0
+}
